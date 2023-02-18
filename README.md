@@ -1,17 +1,17 @@
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-</br>
-</br>
+<div align="center">
+<img align="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<br/>
+</div>
 
 # <div align="center">Hi!👋I'm Sai Tushaar</div>  
   
-
-I am an energetic and highly motivated CSE student with a passion for learning new technologies and exploring new possibilities. I'm a quick learner and have strong problem-solving skills.   
-  
+<ul>
+<li>I am an energetic and highly motivated CSE student with a passion for learning new technologies and exploring new possibilities.</li>
+  <li>I'm a quick learner and have strong problem-solving skills.</li>
+  <li>I have a strong attention to detail and am a good communicator with the ability to work independently as well as in a team.</li>
+</ul>
 
 <br/>  
-
-</br>
-</br>
 
 ### My Skill Set  
 <table><tr><td valign="top" width="50%">
